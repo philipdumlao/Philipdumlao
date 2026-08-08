@@ -1,16 +1,23 @@
-## Hi there 👋
+Hi, I'm Philip Angel Dumlao
 
-<!--
-**philipdumlao/Philipdumlao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Science & Analytics Instructor | Junior Data Analyst
+I am a Data Science & Analytics instructor interested in
+turning data into actionable insights.
 
-Here are some ideas to get you started:
+Skills
+Excel
+SQL
+Power BI
+Python
+Pandas
+Data Visualization
+Statistics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Featured Projects
+Sales Performance Analysis
+Customer Churn Analysis
+Employee Attrition Analysis
+Student Performance Analytics
+
+Connect With Me
+philipangeldumlao@gmail.com | dumlaophilip8@gmail.com
